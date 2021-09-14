@@ -3,7 +3,23 @@ public class connSql {
         System.out.println("hello word");
 
         int a = 10;
+        /*Git hub
 
+    git init (Inicializar)
+    git add <archivo>
+    git commit -m "fdsfds"
+
+    git checkout -- src/connSql.java (retroceder cvambio a la version anterior)
+
+    git log registros
+
+    archivo creado en el proyecto .gitignore
+    dentro del gitignore se pone lo que no se quiere subir
+
+    git branch ver ramas
+    git branch xxxx-rama (rea una nueva rama)
+    
+*/
     }
 
 }
