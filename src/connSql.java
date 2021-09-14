@@ -18,7 +18,8 @@ public class connSql {
 
     git branch ver ramas
     git branch xxxx-rama (rea una nueva rama)
-    
+    git remote add origin (url origen)https://github.com/JuanEstebanT/gitcomandos.git
+    git push -u origin main
 */
     }
 
