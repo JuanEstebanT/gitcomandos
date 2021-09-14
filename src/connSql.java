@@ -3,6 +3,7 @@ public class connSql {
         System.out.println("hello word");
 
         int a = 10;
+
     }
 
 }
